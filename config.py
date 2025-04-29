@@ -1,0 +1,5 @@
+MONGO_URI = "mongodb://localhost:27017/"
+DB_NAME = "chatbot_db"
+RAW_COLLECTION = "mitre_raw_data"
+TRAINED_COLLECTION = "mitre_trained_data"
+HISTORY_COLLECTION = "chat_history"
